@@ -1,4 +1,4 @@
 "# unitystudy" 
-hi git \n
+hi git
 hello git
  
